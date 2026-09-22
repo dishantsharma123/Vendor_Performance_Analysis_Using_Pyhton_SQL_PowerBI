@@ -158,4 +158,4 @@ python scripts/get_vendor_summary.py
 **Ayushi Mishra**  
 Data Analyst  
 📧 Email: dishantsharmawork@gmail.com  
-🔗 [LinkedIn](Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI.)  
+🔗 [LinkedIn](www.linkedin.com/in/dishant-sharma-b84223293)  
